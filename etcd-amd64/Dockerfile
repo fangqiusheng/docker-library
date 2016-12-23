@@ -1,3 +1,3 @@
-From gcr.io/google_containers/kube-cross:v1.7.4-1
+From gcr.io/google_containers/dnsmasq-metrics-amd64:1.0
 #FROM gcr.io/google_containers/etcd-amd64:3.0.14-kubeadm
 MAINTAINER qsfang <qsfang@qsfang.me>
